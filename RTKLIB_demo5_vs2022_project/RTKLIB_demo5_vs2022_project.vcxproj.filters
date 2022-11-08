@@ -156,7 +156,4 @@
       <Filter>源文件\rcv</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
 </Project>

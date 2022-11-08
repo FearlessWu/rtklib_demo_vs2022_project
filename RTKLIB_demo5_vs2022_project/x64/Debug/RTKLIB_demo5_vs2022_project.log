@@ -3,17 +3,17 @@
   convrnx.c
   datum.c
   download.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\download.c(136,39): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\download.c(297,29): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\download.c(303,28): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\download.c(333,9): warning C4101: “stat”: 未引用的局部变量
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\download.c(399,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\download.c(561,22): warning C4101: “remot_p”: 未引用的局部变量
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\download.c(841,12): warning C4101: “tow”: 未引用的局部变量
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\download.c(136,39): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\download.c(297,29): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\download.c(303,28): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\download.c(333,9): warning C4101: “stat”: 未引用的局部变量
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\download.c(399,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\download.c(561,22): warning C4101: “remot_p”: 未引用的局部变量
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\download.c(841,12): warning C4101: “tow”: 未引用的局部变量
   ephemeris.c
   geoid.c
   gis.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\gis.c(312,25): warning C4101: “q”: 未引用的局部变量
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\gis.c(312,25): warning C4101: “q”: 未引用的局部变量
   ionex.c
   lambda.c
   main.c
@@ -25,42 +25,42 @@ D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\gis.c(312,25): warnin
   preceph.c
   rcvraw.c
   binex.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\binex.c(987,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\binex.c(1008,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\binex.c(987,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\binex.c(1008,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
   comnav.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(429,48): warning C4020: “decode_frame”: 实参太多
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(430,48): warning C4020: “decode_frame”: 实参太多
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(431,48): warning C4020: “decode_frame”: 实参太多
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(586,64): warning C4020: “decode_frame”: 实参太多
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(587,64): warning C4020: “decode_frame”: 实参太多
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(588,64): warning C4020: “decode_frame”: 实参太多
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(625,47): warning C4020: “decode_frame”: 实参太多
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(626,47): warning C4020: “decode_frame”: 实参太多
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(627,47): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(429,48): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(430,48): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(431,48): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(586,64): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(587,64): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(588,64): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(625,47): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(626,47): warning C4020: “decode_frame”: 实参太多
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(627,47): warning C4020: “decode_frame”: 实参太多
   正在生成代码...
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\comnav.c(272): warning C4700: 使用了未初始化的局部变量“wavelen”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\comnav.c(272): warning C4700: 使用了未初始化的局部变量“wavelen”
   正在编译...
   crescent.c
   javad.c
   novatel.c
   nvs.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\nvs.c(107,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\nvs.c(263,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\nvs.c(107,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\nvs.c(263,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
   rt17.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\rt17.c(1796,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\rt17.c(1832,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\rt17.c(1796,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\rt17.c(1832,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
   septentrio.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\septentrio.c(236,22): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\septentrio.c(282,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\septentrio.c(236,22): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\septentrio.c(282,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
   skytraq.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\skytraq.c(271,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\skytraq.c(337,13): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\skytraq.c(359,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\skytraq.c(384,21): warning C4101: “m”: 未引用的局部变量
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\skytraq.c(271,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\skytraq.c(337,13): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\skytraq.c(359,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\skytraq.c(384,21): warning C4101: “m”: 未引用的局部变量
   swiftnav.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\swiftnav.c(354,35): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\swiftnav.c(536,38): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\swiftnav.c(1573,46): warning C4244: “=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\swiftnav.c(354,35): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\swiftnav.c(536,38): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\swiftnav.c(1573,46): warning C4244: “=”: 从“__int64”转换到“uint32_t”，可能丢失数据
   tersus.c
   ublox.c
   rinex.c
@@ -69,50 +69,50 @@ D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\swiftnav.c(1573,4
   rtcm3.c
   rtcm3e.c
   rtkcmn.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3304,24): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3304,24): message : 请考虑在格式字符串中使用“%ls”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3304,24): message : 请考虑在格式字符串中使用“%lls”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3304,24): message : 请考虑在格式字符串中使用“%Ls”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3304,24): message : 请考虑在格式字符串中使用“%ws”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3307,28): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3307,28): message : 请考虑在格式字符串中使用“%ls”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3307,28): message : 请考虑在格式字符串中使用“%lls”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3307,28): message : 请考虑在格式字符串中使用“%Ls”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3307,28): message : 请考虑在格式字符串中使用“%ws”
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3364,29): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkcmn.c(3370,28): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3304,24): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3304,24): message : 请考虑在格式字符串中使用“%ls”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3304,24): message : 请考虑在格式字符串中使用“%lls”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3304,24): message : 请考虑在格式字符串中使用“%Ls”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3304,24): message : 请考虑在格式字符串中使用“%ws”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3307,28): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3307,28): message : 请考虑在格式字符串中使用“%ls”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3307,28): message : 请考虑在格式字符串中使用“%lls”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3307,28): message : 请考虑在格式字符串中使用“%Ls”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3307,28): message : 请考虑在格式字符串中使用“%ws”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3364,29): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkcmn.c(3370,28): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
   rtkpos.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkpos.c(1690,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkpos.c(1692,58): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkpos.c(1694,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtkpos.c(1756,37): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkpos.c(1690,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkpos.c(1692,58): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkpos.c(1694,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtkpos.c(1756,37): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
   rtksvr.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rtksvr.c(591,45): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rtksvr.c(591,45): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
   sbas.c
   solution.c
   正在生成代码...
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\rcv\tersus.c(340): warning C4700: 使用了未初始化的局部变量“wavelen”
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\rcv\tersus.c(340): warning C4700: 使用了未初始化的局部变量“wavelen”
   正在编译...
   stream.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(401,31): warning C4133: “函数”: 从“char [128]”到“LPCWSTR”的类型不兼容
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(416,26): warning C4133: “函数”: 从“char [64]”到“LPCWSTR”的类型不兼容
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(564,53): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(801,12): warning C4101: “rs”: 未引用的局部变量
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1032,20): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1074,20): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1087,20): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1536,49): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1560,40): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1565,49): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1585,21): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1626,21): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1924,40): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1928,62): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(1934,54): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\stream.c(2151,28): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(401,31): warning C4133: “函数”: 从“char [128]”到“LPCWSTR”的类型不兼容
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(416,26): warning C4133: “函数”: 从“char [64]”到“LPCWSTR”的类型不兼容
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(564,53): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(801,12): warning C4101: “rs”: 未引用的局部变量
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1032,20): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1074,20): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1087,20): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1536,49): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1560,40): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1565,49): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1585,21): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1626,21): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1924,40): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1928,62): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(1934,54): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\stream.c(2151,28): warning C4244: “函数”: 从“SOCKET”转换到“int”，可能丢失数据
   streamsvr.c
   tides.c
   tle.c
-D:\work\local_repositories\RTKLIB_demo5_vs2022_project\src\tle.c(276,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\local_repositories\demo\rtklib_demo_vs2022_project\src\tle.c(276,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
   正在生成代码...
-  RTKLIB_demo5_vs2022_project.vcxproj -> D:\work\local_repositories\RTKLIB_demo5_vs2022_project\x64\Debug\RTKLIB_demo5_vs2022_project.exe
+  RTKLIB_demo5_vs2022_project.vcxproj -> D:\work\local_repositories\demo\rtklib_demo_vs2022_project\x64\Debug\RTKLIB_demo5_vs2022_project.exe

@@ -1,0 +1,5 @@
+SPP:
+-k ../example/spp.conf ../example/hkws0010.21o ../example/brdm0010.21p -o ../example/hkws0010_spp.pos
+
+RTK:
+-k ../example/rtk.conf ../example/hkws0010.21o ../example/hksl0010.21o ../example/brdm0010.21p -o ../example/hkws0010_rtk.pos
